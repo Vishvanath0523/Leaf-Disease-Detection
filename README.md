@@ -11,7 +11,7 @@ This is a Next.js application built with Visual Studio Code that allows users to
 
 ## Getting Started
 
-To get started with the development server:
+To get started with the development server in your local system:
 
 ```bash
 npm run dev
