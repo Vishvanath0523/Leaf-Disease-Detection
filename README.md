@@ -1,6 +1,6 @@
-# LeafAI
+# Leaf Disease Identifier
 
-This is a Next.js application built with Firebase Studio that allows users to identify plant leaf diseases.
+This is a Next.js application built with Visual Studio Code that allows users to identify plant leaf diseases.
 
 ## Features
 
